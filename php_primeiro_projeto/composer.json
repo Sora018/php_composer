@@ -1,0 +1,10 @@
+{
+    "name": "admin/totoro_php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\PhpComposer\\": "src/"
+        }
+    },
+    "require": {}
+}
